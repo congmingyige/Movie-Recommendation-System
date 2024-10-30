@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1466121745 source:e:\windows_api\user_information\main.c
+	<windows.h>
+
+1466337683 source:e:\movie\user_information\main.c
+	<windows.h>
+	"E:\\Movie\\define.h"
+
+1466338056 e:\\movie\\define.h
+	<malloc.h>
+	<stdbool.h>
+

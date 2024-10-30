@@ -1,0 +1,44 @@
+1.是否有登录 vis_Login(bool)
+2.如果有登录 用户名 Loginuser(char[100])	CurrentUser
+3.一开始的观看方式 ShowMode(int)
+4.不同观看方式的电影序号按顺序排列的数组
+
+
+
+所在的父窗口 判断快捷键的指向
+
+
+电影：E:\\MovieSoftware\\movie.txt
+
+输入：
+total_movie
+
+each movie：
+Number(long)
+Name[100](char)
+Country[100](char)
+Photo[100](char)
+Torrent[100](char)
+File[100](char)
+Passage[1000](char)
+OverallMark(float) ProfessorMark(float) UserMark(float) UserNumber(long) RatioMark(float)
+year(int) month(int) day(int)
+Mood(int) Condition(int) Sex(int) Age(int)
+Category[10](int) //9个
+
+//////////////////////
+
+用户：E:\\MovieSoftware\\user.txt
+
+输入：
+
+CurrentUser
+total_user
+
+each user：
+Number(long)
+Name[100](char)
+Password[100](char)
+Sex(int) Age(int) Preference(int)
+
+

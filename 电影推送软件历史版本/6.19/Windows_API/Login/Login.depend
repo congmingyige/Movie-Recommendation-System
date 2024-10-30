@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1466259298 source:e:\windows_api\login\main.c
+	<windows.h>
+	<string.h>
+	"E:\\Windows_API\\define.h"
+
+1466123608 e:\\windows_api\\define.h
+	<windows.h>
+	<malloc.h>
+	<stdbool.h>
+
+1466088907 source:e:\windows_api\login\operate_name.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	"E:\\Windows_API\\define.h"
+
+1466123668 source:e:\windows_api\login\inituser.c
+	<stdio.h>
+	<stdlib.h>
+	"E:\\Windows_API\\define.h"
+
+1466123535 source:e:\windows_api\login\operatename.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	"E:\\Windows_API\\define.h"
+
+1466123668 source:c:\users\lenovo\desktop\windows_api\login\inituser.c
+	<stdio.h>
+	<stdlib.h>
+	"E:\\Windows_API\\define.h"
+
+1466123535 source:c:\users\lenovo\desktop\windows_api\login\operatename.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	"E:\\Windows_API\\define.h"
+
+1466180427 source:c:\users\lenovo\desktop\windows_api\login\main.c
+	<windows.h>
+	<string.h>
+	"E:\\Windows_API\\define.h"
+

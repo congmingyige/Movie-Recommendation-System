@@ -1,0 +1,25 @@
+1.static
+WS_CHILD | WS_VISIBLE | WS_BORDER | SS_RIGHT | SS_CENTERIMAGE
+
+2.edit
+WS_CHILD | WS_VISIBLE | WS_BORDER
+
+ES_AUTOHSCROLL		//当输入文字超出横向显示范围时自动滚动
+ES_AUTOVSCROLL		//当输入文字超出纵向显示范围时自动滚动
+ES_READONLY		//只读
+ES_MULTILINE		//多行显示，一般加上WS_VSCROLL
+
+3.botton
+WS_CHILD | WS_VISIBLE | WS_BORDER | BS_CENTER | BS_VCENTER
+
+4.WS
+WS_VSCROLL：创建一个有垂直滚动条的窗口
+
+BOOL SetScrollRange(
+HWND hWnd, // 窗口句柄
+int nBar, // 滚动条类型
+int nMinPos, // 滚动条的最小位置
+int nMaxPos, // 滚动条的最大位置
+BOOL bRedraw // 重绘标志
+);
+

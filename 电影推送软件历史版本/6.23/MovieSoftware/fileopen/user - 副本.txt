@@ -1,0 +1,11 @@
+0
+
+1
+
+0
+chen
+/name/
+chenguanbin
+/password/
+1 1 1 1
+0 0 0 0 0 0 0 1 0

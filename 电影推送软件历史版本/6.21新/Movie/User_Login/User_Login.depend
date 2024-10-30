@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1466337625 source:e:\movie\user_login\find_name.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	"E:\\Movie\define.h"
+
+1466337927 e:\\movie\define.h
+	<malloc.h>
+	<stdbool.h>
+
+1466337616 source:e:\movie\user_login\main.c
+	<windows.h>
+	<string.h>
+	"E:\\Movie\\define.h"
+
+1466337927 e:\\movie\\define.h
+	<malloc.h>
+	<stdbool.h>
+
+1466337846 source:e:\movie\user_login\init_user.c
+	<stdio.h>
+	<stdlib.h>
+	"E:\\Movie\\define.h"
+

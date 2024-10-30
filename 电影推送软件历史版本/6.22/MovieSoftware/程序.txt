@@ -1,0 +1,17 @@
+//电影修改
+Movie_Modify
+//电影显示
+Movie_Show
+//电影观看历史
+Movie_History
+//电影——类别
+Movie_Category
+//电影——心情
+Movie_Mood		
+
+//用户登录
+User_Login
+//用户信息
+User_Information
+//用户观看历史
+User_History

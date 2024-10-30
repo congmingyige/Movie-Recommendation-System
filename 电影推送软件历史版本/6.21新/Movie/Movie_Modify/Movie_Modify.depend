@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1466471921 source:e:\movie\movie_modify\init_movie.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"E:\\Movie\\define.h"
+
+1466486398 e:\\movie\\define.h
+	<malloc.h>
+	<stdbool.h>
+	<string.h>
+
+1466498350 source:e:\movie\movie_modify\main.c
+	<windows.h>
+	<string.h>
+	<stdbool.h>
+	"E:\\Movie\\define.h"
+

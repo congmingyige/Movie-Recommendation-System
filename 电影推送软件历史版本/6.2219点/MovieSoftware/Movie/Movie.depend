@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1466550995 source:e:\movie\movie\main.c
+	<windows.h>
+	<stdbool.h>
+	<string.h>
+
+1466521160 source:e:\movie\movie\inputdata.c
+	<stdio.h>
+	<stdlib.h>
+
+1466564168 source:e:\moviesoftware\movie\main.c
+	<windows.h>
+	<stdbool.h>
+	<string.h>
+

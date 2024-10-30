@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1466550995 source:e:\movie\movie\main.c
+	<windows.h>
+	<stdbool.h>
+	<string.h>
+
+1466521160 source:e:\movie\movie\inputdata.c
+	<stdio.h>
+	<stdlib.h>
+
+1466927809 source:e:\moviesoftware\movie\main.c
+	<windows.h>
+	<stdbool.h>
+	<string.h>
+	"define.h"
+
+1466778646 source:e:\moviesoftware\movie\fileopen.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"define.h"
+
+1466652478 e:\\moviesoftware\\define.h
+	<windows.h>
+	<malloc.h>
+	<stdbool.h>
+	<string.h>
+
+1466903689 e:\moviesoftware\movie\define.h
+	<windows.h>
+	<malloc.h>
+	<stdbool.h>
+	<string.h>
+
+1466781495 source:e:\moviesoftware\movie\fileclose.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"define.h"
+
+1466923962 source:e:\moviesoftware\movie\qsort.c
+	<stdio.h>
+	<stdlib.h>
+	"define.h"
+
